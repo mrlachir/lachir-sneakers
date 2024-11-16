@@ -4,8 +4,8 @@ This project is a simple guessing game where users must guess the number of file
 
 ## Last Make Run
 
-Make was last run on: DATE_PLACEHOLDER
+Make was last run on: 11/16/2024 5:00 PM 
 
 ## Script Details
 
-`guessinggame.sh` contains LINE_COUNT_PLACEHOLDER lines of code.
+`guessinggame.sh` contains 28 lines of code.
